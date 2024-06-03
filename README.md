@@ -25,7 +25,7 @@ I specialize in building robust backends that handle all the heavy lifting for y
 
 - 🔭 I’m currently working on [Taú Software](https://github.com/manhattan-org?view_as=public)
 
-- Tau Software is a project that we have undertaken as a team with three friends. Our goal is to develop efficient and robust software solutions for companies in need. Currently, we have begun the development of a shift management and administrative system with the aim of providing a management solution to a wide range of strategic or economic sectors, without the need for major modifications.
+- 💡 Tau Software is a project that we have undertaken as a team with three friends. Our goal is to develop efficient and robust software solutions for companies in need. Currently, we have begun the development of a shift management and administrative system with the aim of providing a management solution to a wide range of strategic or economic sectors, without the need for major modifications.
   
 
 - 🌱 I’m currently learning about design patterns to enhance the quality and efficiency of my projects.  
