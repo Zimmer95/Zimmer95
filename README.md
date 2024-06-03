@@ -38,7 +38,7 @@ I specialize in building robust backends that handle all the heavy lifting for y
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://asset.cloudinary.com/dzupkbfvj/d378128bae553de2d8eb4ffd7ab7985c" align="center" style="width: 100%" />
 </div>  
 
 
