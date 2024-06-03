@@ -82,12 +82,9 @@ I specialize in building robust backends that handle all the heavy lifting for y
 
 <br/>  
 
-  
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Zimmer95&&style=flat-square)  
-  
 
 <br/>  
 
@@ -95,4 +92,4 @@ I specialize in building robust backends that handle all the heavy lifting for y
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![Profile views counter](https://komarev.com/ghpvc/?username=Zimmer95&&style=flat-square)  
