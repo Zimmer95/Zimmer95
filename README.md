@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-As a full-stack developer, I possess a strong ability to work on both the front-end and back-end. This versatility allows me to create complete applications and websites, encompassing everything from the user experience to the efficiency and robustness of the underlying system. My comprehensive approach ensures high-quality technological solutions that meet and exceed market expectations.
+As a full-stack developer, I possess a strong ability to work on both the front-end and back-end. This versatility allows me to create complete applications and websites, encompassing everything from the user experience to the efficiency and robustness of the underlying system. My comprehensive approach ensures high-quality technology solutions that live up to market expectations.
 
 I specialize in building robust backends that handle all the heavy lifting of an app or website. My passion is designing systems that are lightweight yet powerful, distributed yet synchronized, and beautiful yet effective. I enjoy creating infrastructures that not only meet current requirements but are also prepared to scale and adapt to future needs.  
   
