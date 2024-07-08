@@ -23,7 +23,7 @@ I specialize in building robust backends that handle all the heavy lifting of an
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Taú Software](https://github.com/manhattan-org?view_as=public)
+- 🔭 I’m currently working on [Taú Software](https://tau-software.web.app/)
 
 - 💡 Tau Software is a project we have embarked on as a team with three friends. Our goal is to develop efficient and robust software solutions for public or private entities that require them. Currently, we have started developing an application for comprehensive community health management, aiming to provide a solution that facilitates the collection, updating, and tracking of medical and sociodemographic data of individuals and families within a community. This tool is designed to optimize these processes and enable interoperability with other health systems, helping health teams make informed and effective decisions.
   
