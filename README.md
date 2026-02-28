@@ -84,12 +84,20 @@ ORDER BY proficiency DESC;
 
 > *Soluciones de software a medida para entidades públicas y privadas*
 
-Actualmente desarrollando una **aplicación de gestión integral de salud comunitaria**, diseñada para facilitar la recolección, actualización y seguimiento de datos médicos y sociodemográficos de personas y familias dentro de una comunidad.
-
-**Stack**: Next.js · NestJS · PostgreSQL · Cloud deployment  
-**Desafío principal**: modelado de datos de salud + interoperabilidad con sistemas externos
-
 🔗 [tau-software.web.app](https://tau-software.web.app/)
+
+### 📊 Dashboard de Ingresos & Egresos — CADEMIS
+**Cliente**: Colegio de Abogados de la Provincia de Misiones  
+
+Desarrollo de una plataforma de analítica financiera que centraliza y transforma datos dispersos en información accionable para la dirección del colegio.
+
+**Lo que construimos:**
+- Integración de **dos bases de datos de terceros** con lógica ETL propia en NestJS
+- **Dashboard interactivo** que devuelve información financiera relevante en tiempo real (ingresos completados en etapa 1)
+- Plataforma web desplegada en **servidor propio en DigitalOcean** — 100% disponible
+- Etapa 2 en desarrollo: módulo de egresos
+
+**Stack**: Next.js · NestJS · PostgreSQL · DigitalOcean · SQL avanzado
 
 ---
 
