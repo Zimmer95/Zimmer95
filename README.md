@@ -1,95 +1,119 @@
-## Hey 👋, I'm Jorge Zimmermann!  
-  
+<div align="center">
 
-<a href="https://github.com/Zimmer95" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/jorgezimmermann" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+```
+╔══════════════════════════════════════════════════════════╗
+║   SELECT * FROM developers WHERE name = 'Zimmermann';    ║
+╚══════════════════════════════════════════════════════════╝
+```
 
+# Jorge Zimmermann
+### Full Stack Developer · SQL & Data Analyst · Builder
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgezimmermann)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zimmer95)
+[![English](https://img.shields.io/badge/English-C2_Proficient-2D9CDB?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.efset.org/)
+[![Location](https://img.shields.io/badge/Oberá,_Misiones-Argentina-27AE60?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
-### Glad to see you here!  
-As a full-stack developer, I possess a strong ability to work on both the front-end and back-end. This versatility allows me to create complete applications and websites, encompassing everything from the user experience to the efficiency and robustness of the underlying system. My comprehensive approach ensures high-quality technology solutions that live up to market expectations.
+</div>
 
-I specialize in building robust backends that handle all the heavy lifting of an app or website. My passion is designing systems that are lightweight yet powerful, distributed yet synchronized, and beautiful yet effective. I enjoy creating infrastructures that not only meet current requirements but are also prepared to scale and adapt to future needs.  
-  
+---
 
-<br/>  
+## 👋 Hola, soy Jorge
 
+Desarrollador Full Stack con foco creciente en **datos, SQL y analítica**. Me apasiona construir sistemas que no solo funcionen bien, sino que también generen información útil para quien los usa.
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+Llevo más de **2 años diseñando y manteniendo bases de datos relacionales** en proyectos reales — desde el modelo entidad-relación hasta las consultas que alimentan dashboards de decisión. Trabajo con **PostgreSQL, MySQL, Firebird, SQLite y Firebase** dependiendo del contexto, y disfruto especialmente del momento en que una query compleja devuelve exactamente lo que el negocio necesitaba.
 
-- 🔭 I’m currently working on [Taú Software](https://tau-software.web.app/)
+Actualmente co-fundador de **[Taú Software](https://tau-software.web.app/)**, donde desarrollamos soluciones para gestión comunitaria de salud.
 
-- 💡 Tau Software is a project we have embarked on as a team with three friends. Our goal is to develop efficient and robust software solutions for public or private entities that require them. Currently, we have started developing an application for comprehensive community health management, aiming to provide a solution that facilitates the collection, updating, and tracking of medical and sociodemographic data of individuals and families within a community. This tool is designed to optimize these processes and enable interoperability with other health systems, helping health teams make informed and effective decisions.
-  
+---
 
-- 🌱 I’m currently learning about design patterns to enhance the quality and efficiency of my projects.  
-  
+## 🗄️ SQL & Datos — Mi especialidad
 
-- ❓Feel free to ask me anything related to the MERN stack, MEAN stack, and related technologies.  
-  
+```sql
+-- Lo que hago con datos todos los días:
+SELECT skill, years_experience
+FROM jorge_zimmermann
+WHERE category IN ('SQL', 'Data Analysis', 'Dashboard Design')
+ORDER BY proficiency DESC;
+```
 
-- ⚡Fun fact: I keep dark mode turned on at all times.  
+- 🔷 **Diseño de esquemas** relacionales desde cero: modelado ER, normalización, constraints e índices
+- 🔷 **Consultas avanzadas**: JOINs múltiples, subconsultas, funciones de ventana, CTEs
+- 🔷 **ETL & reporting**: extracción y transformación de datos de sistemas de terceros para dashboards ejecutivos
+- 🔷 **Motores**: PostgreSQL · MySQL · Firebird · SQLite · Firebase
+- 🔷 **Visualización**: Power BI · Excel avanzado · Dashboards a medida integrados en apps
 
+---
 
-</td><td valign="top" width="50%">
+## 🚀 Stack tecnológico
 
 <div align="center">
-<img src="https://res.cloudinary.com/dzupkbfvj/image/upload/v1734578894/bmpiwsjta8hkyoaxlyoz.png"  alt="Taú Logo" align="center" style="width: 100%" />
-</div>  
 
+**Bases de datos & Datos**
 
-</td></tr></table>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="35" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="35" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="35" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="35" /></a>
+<a href="https://powerbi.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="35" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" /></a>
 
-<br/>  
+**Frontend**
 
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" /></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="35" /></a>
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="35" /></a>
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="35" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35" /></a>
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="25" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-</div>  
+**Backend & DevOps**
 
-<br/>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="35" /></a>
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="35" /></a>
+<a href="https://docs.spring.io/spring-framework/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring Boot" height="35" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="35" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /></a>
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="35" /></a>
 
+</div>
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Zimmer95&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+---
 
-<br/>  
+## 🏗️ Proyecto actual — Taú Software
 
+> *Soluciones de software a medida para entidades públicas y privadas*
 
-<br/>  
+Actualmente desarrollando una **aplicación de gestión integral de salud comunitaria**, diseñada para facilitar la recolección, actualización y seguimiento de datos médicos y sociodemográficos de personas y familias dentro de una comunidad.
 
+**Stack**: Next.js · NestJS · PostgreSQL · Cloud deployment  
+**Desafío principal**: modelado de datos de salud + interoperabilidad con sistemas externos
 
-<br/>  
+🔗 [tau-software.web.app](https://tau-software.web.app/)
 
+---
 
-<br />
+## 📊 GitHub Stats
 
-----
-![Profile views counter](https://komarev.com/ghpvc/?username=Zimmer95&&style=flat-square)  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Zimmer95&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0D1117" align="center" style="width: 49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zimmer95&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117" align="center" style="width: 49%" />
+</div>
+
+---
+
+## 📬 Contacto
+
+¿Tenés un proyecto que necesita un buen diseño de base de datos, un dashboard útil, o un sistema robusto de principio a fin?
+
+**[jorgezimmer95@gmail.com](mailto:jorgezimmer95@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/jorgezimmermann)**
+
+---
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=Zimmer95&style=flat-square&color=1F4E79)
+
+*"Without data, you're just another person with an opinion." — W. Edwards Deming*
+
+</div>
