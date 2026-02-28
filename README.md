@@ -24,7 +24,7 @@ Desarrollador Full Stack con foco creciente en **datos, SQL y analítica**. Me a
 
 Llevo más de **2 años diseñando y manteniendo bases de datos relacionales** en proyectos reales — desde el modelo entidad-relación hasta las consultas que alimentan dashboards de decisión. Trabajo con **PostgreSQL, MySQL, Firebird, SQLite y Firebase** dependiendo del contexto, y disfruto especialmente del momento en que una query compleja devuelve exactamente lo que el negocio necesitaba.
 
-Actualmente co-fundador de **[Taú Software](https://tau-software.web.app/)**, donde desarrollamos soluciones para gestión comunitaria de salud.
+Actualmente co-fundador de **[Taú Software](https://tau-software.com/)**, donde desarrollamos soluciones para gestión comunitaria de salud.
 
 ---
 
